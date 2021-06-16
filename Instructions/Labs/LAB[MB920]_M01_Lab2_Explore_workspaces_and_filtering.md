@@ -102,9 +102,9 @@ Many built-in workspaces are available to you when you first sign in to Finance 
 
     ![Screen image showing multi-line filter for lists](./media/m1-common-multi-line-filter.png)
 
-1. In the **Vendor account begins with** filter, select the menu, and then select **Northwind Traders**.
+1. In the **Vendor account begins with** filter, select the menu, and then select **Ade Supply Company**.
 
-1. In the **Group begins with** filter, select the menu, and then select **30**.
+1. In the **Group begins with** filter, select the menu, and then select **20**.
 
 1. Select **Apply,** and then review the filter results.
 
