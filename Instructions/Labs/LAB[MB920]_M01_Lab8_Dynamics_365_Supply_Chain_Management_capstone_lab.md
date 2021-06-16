@@ -1,3 +1,5 @@
+## Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management
+
 ## Lab 8 - Dynamics 365 Supply Chain Management capstone lab
 
 ## Objective
