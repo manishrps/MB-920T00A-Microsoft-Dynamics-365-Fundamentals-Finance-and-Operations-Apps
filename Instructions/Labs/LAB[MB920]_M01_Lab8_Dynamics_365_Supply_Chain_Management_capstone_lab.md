@@ -69,7 +69,7 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 ### Create a warehouse
 
-1. Using the navigation pane, select **Modules** > **Inventory management** > **Setup** > **Inventory breakdown** > **Warehouses**.
+1. Using the navigation pane, select **Modules** > **Inventory management** > **Inventory breakdown** > **Warehouses**.
 
 1. On the Warehouses page, in the Action Pane, select **New**.
 
