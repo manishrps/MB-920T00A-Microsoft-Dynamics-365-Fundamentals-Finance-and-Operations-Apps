@@ -1,8 +1,4 @@
----
-lab:
-    title: 'Lab 2: Create a vendor payment journal'
-    module: 'Module 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance'
----
+## Module 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance
 
 ## Lab 2 - Create a vendor payment journal
 
