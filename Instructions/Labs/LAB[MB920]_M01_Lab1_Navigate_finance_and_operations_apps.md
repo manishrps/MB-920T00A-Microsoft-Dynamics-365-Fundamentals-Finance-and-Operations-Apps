@@ -16,10 +16,9 @@ Now that you've become familiar with finance and operations apps, take some time
 
 1. Select the **AdminUserProvisioning** file on the desktop.
 
-1. Enter the credentials provided and then select **Submit**.  
-Your credentials can be found in the **Resources** menu at the top right corner of the screen.
+1. Enter the UserName provided under environment detail page and then select **Submit**.
 
-1. Wait for the script to finish before continuing. This may take 2-3 minutes. Once the script is completed a pop-up box will display to confirm the Admin user has been successfully updated.
+1. Wait for the script to finish before continuing. This may take 5-10 minutes. Once the script is completed a pop-up box will display to confirm the Admin user has been successfully updated.
 
 1. Select **Ok** to continue.
 
@@ -27,7 +26,9 @@ Your credentials can be found in the **Resources** menu at the top right corner 
 
 1. Browse to the given link: <https://usnconeboxax1aos.cloud.onebox.dynamics.com>
 
-1. Sign in using the credentials provided in the **Resources** menu.
+1. Sign in using the credentials provided in the **Environment Detail page** menu.
+
+Note: provide the Username and Password.
 
 ### Navigate finance and operations apps
 1. On the Finance and Operations Home page, if configured, you will see:
