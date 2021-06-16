@@ -1,3 +1,5 @@
+## Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management
+
 ## Lab 7 - Create a planned work order
 
 ## Objectives
