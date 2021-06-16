@@ -12,23 +12,7 @@ Now that you've become familiar with finance and operations apps, take some time
 
 ## Instructions
 
-### Sign in to the Lab computer
-
-1. Sign in to the lab computer using below credentials
-
-    - User Name:
-
-        Paste Content
-
-        Administrator
-
-    - Password:
-
-        Paste Content
-
-        pass@word1
-
-    >[!Note] Internet Explorer may automatically open in the desktop. If you have not already completed steps #2-5, please finish them before navigating back to Internet Explorer.
+### Setup the dynamic environment
 
 1. Select the **AdminUserProvisioning** file on the desktop.
 
