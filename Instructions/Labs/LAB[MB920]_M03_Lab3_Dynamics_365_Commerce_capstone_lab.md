@@ -1,3 +1,5 @@
+## Module 3: Learn the Fundamentals of Microsoft Dynamics 365 Commerce
+
 ## Lab 3 - Dynamics 365 Commerce capstone lab
 
 ## Objective
