@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 1: Create a discount product'
-    module: 'Module 3: Learn the Fundamentals of Microsoft Dynamics 365 Commerce'
----
-
 ## Lab 1 - Create a discount product
 
 ## Objectives
