@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 1: Dynamics 365 Human Resources capstone lab'
-    module: 'Module 4: Learn the Fundamentals of Microsoft Dynamics 365 Human Resources'
----
-
 ## Lab 1 - Dynamics 365 Human Resources capstone lab
 
 ## Objective
