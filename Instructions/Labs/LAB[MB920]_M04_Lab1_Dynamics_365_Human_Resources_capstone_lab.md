@@ -1,3 +1,5 @@
+## Module 4: Learn the Fundamentals of Microsoft Dynamics 365 Human Resource
+
 ## Lab 1 - Dynamics 365 Human Resources capstone lab
 
 ## Objective
