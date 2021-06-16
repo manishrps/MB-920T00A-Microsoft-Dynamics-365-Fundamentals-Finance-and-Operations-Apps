@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 5: Create a warehouse'
-    module: 'Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
----
-
 # Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management
 
 ## Lab 5 - Create a warehouse
