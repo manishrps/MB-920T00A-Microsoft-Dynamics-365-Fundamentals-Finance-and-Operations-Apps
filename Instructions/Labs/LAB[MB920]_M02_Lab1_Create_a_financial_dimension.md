@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 1: Create a financial dimension'
-    module: 'Module 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance'
----
-
 ## Lab 1 - Create a financial dimension
 
 ## Objectives
