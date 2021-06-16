@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 4: Create a purchase order'
-    module: 'Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
----
-
 # Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management
 
 ## Lab 4 - Create a purchase order
