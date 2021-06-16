@@ -1,8 +1,4 @@
----
-lab:
-    title: 'Lab 3: Dynamics 365 Finance capstone lab'
-    module: 'Module 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance'
----
+## Module 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance
 
 ## Lab 3 - Dynamics 365 Finance capstone lab
 
