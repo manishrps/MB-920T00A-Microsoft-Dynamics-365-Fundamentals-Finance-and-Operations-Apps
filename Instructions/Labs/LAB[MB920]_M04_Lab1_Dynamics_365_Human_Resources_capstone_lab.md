@@ -36,17 +36,17 @@ During this lab, you will explore the onboarding process for a new employee, inc
     
 #### NOTE: If you get error related to 'populate the data by running the ‘Populate project resources across all companies’ batch job' follow the following steps
 
-1. Cancel the process and Refresh your browser, and then go to Project management and accounting > Periodic > Project resources > Synchronize resource calendars capacity across all companies.
+1. Cancel the process and Refresh your browser, and then go to **Project management and accounting > Periodic > Project resources > Synchronize resource calendars capacity across all companies**.
 
-1. Set Remove existing capacity records to Yes to remove previous data. If you want generate incremental data, set it to No.
+1. Set Remove existing capacity records to **Yes** to remove previous data. If you want generate incremental data, set it to **No**.
 
 1. In the Period code field, select the period in which data should be generated. If you select a period code, a start and end date do not need to be defined.
 
 1. If you leave the Period code field blank, select specific start and end dates to generate data.
 
-1. Select OK.
+1. Select **OK**.
 
-1. Go to Project management and accounting > Periodic > Project resources > Populate project resources across all companies and then select OK. This is the data upgrade script for general data in the ResProjectResource, ResCalendarDateTimeRange, and ResEffectiveDateTimeRange tables. Values for the PSAPRojSchedRole.RootActivity field are also updated. If this is not run, you will receive a warning when you try to execute resource scheduling operations.
+1. Go to **Project management and accounting > Periodic > Project resources > Populate project resources across all companies** and then select **OK**. This is the data upgrade script for general data in the ResProjectResource, ResCalendarDateTimeRange, and ResEffectiveDateTimeRange tables. Values for the PSAPRojSchedRole.RootActivity field are also updated. If this is not run, you will receive a warning when you try to execute resource scheduling operations.
 
 1. Create record again (step 1-7)
 
