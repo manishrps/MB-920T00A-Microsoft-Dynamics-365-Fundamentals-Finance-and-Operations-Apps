@@ -33,6 +33,4 @@ You must create a new production order for your company.
 
     ![Screen image displaying the complete Create production order pane](./media/lp1-m4-new-production-order-pane.png)
 
-1. Select **Create**.
-
-1. Close the page and return to the Home page.
+1. Select **Create**. Close the page and return to the Home page.
