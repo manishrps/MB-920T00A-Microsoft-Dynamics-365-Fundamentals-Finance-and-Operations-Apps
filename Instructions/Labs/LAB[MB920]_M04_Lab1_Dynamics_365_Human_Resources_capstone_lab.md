@@ -109,7 +109,7 @@ During this lab, you will explore the onboarding process for a new employee, inc
 1. In the **Expenses** grid, in the new expense line, enter the following updates:
 
     | **Setting** | **Value** |
-    | :--- | :---- |
+    | --- | --- |
     | Transaction date | Select today's date |
     | Expense category | Car Rental |
     | Merchant | LitWare Travel |
@@ -141,7 +141,7 @@ During this lab, you will explore the onboarding process for a new employee, inc
 
 1. Select **Close**.
 
-1. In the Action Pane, select **Workflow** and then select **Submit**.
+1. In the Action Pane, select **Submit**.
 
 1. In the **Expense report - USMF - Submit** pane, in the **Comments** box, enter **Please review my expense report**.
 
