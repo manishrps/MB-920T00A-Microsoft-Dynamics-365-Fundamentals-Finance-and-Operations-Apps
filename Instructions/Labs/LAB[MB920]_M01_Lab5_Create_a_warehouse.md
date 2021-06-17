@@ -41,8 +41,7 @@ To use warehouse management in Supply Chain Management, you must create a wareho
 1. Set the **Include aisle** and **Include rack** options to **Yes**.
 
 1. In the **Format** box, for the rack, enter **-#**.   
-    For example, if the format of the rack location name must contain OVFL, you would enter that value in the Format box.
-
+    
 1. Under **LEVEL**, set the **Include shelf** option to **Yes**.
 
 1. In the **Format** field, for the shelf, enter **-##**. Click on save.
