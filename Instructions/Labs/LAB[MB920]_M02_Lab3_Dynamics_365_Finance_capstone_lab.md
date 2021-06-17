@@ -361,6 +361,8 @@ During this lab, you will explore the core capabilities of Microsoft Dynamics 36
 
 1. On the Customer payment journal page in the **Name** column, select the menu and then select **CustPay**.
 
+1. In the Action Pane, select **Save**.
+
 1. In the Action Pane, select **Enter customer payments**.
 
 1. In the **Customer** box, enter **US-901**.  
