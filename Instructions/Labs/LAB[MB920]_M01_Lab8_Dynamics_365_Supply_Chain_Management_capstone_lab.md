@@ -57,7 +57,7 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
     | Sales unit| ea|
     | BOM unit| ea|
 
-1. Select **OK**.
+1. Select **OK**. Select save on the top left corner.
 
 1. To ensure the product is finalized, in the Action Pane, select **Product** and then, under **Maintain**, select **Validate**.
 
@@ -107,7 +107,7 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. Using the navigation pane, select **Modules** > **Product information management** > **Products** > **Released products**.
 
-1. On the Released products details page, search for the product number **GTL201**.
+1. On the Released products details page, search for the item number **GTL201**.
 
 1. To the left of **GTL201**, select the **Select or unselect row** check box.
 
@@ -245,7 +245,7 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. In the **Dimensions display** pane, under **PRODUCT DIMENSIONS**, select the **Color** check box.
 
-1. Select **OK**.
+1. Select **OK**. 
 
 1. In **Item number** column, select the menu and then select **T0005**.
 
