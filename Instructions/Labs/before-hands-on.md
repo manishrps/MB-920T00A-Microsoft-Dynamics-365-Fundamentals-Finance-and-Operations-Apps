@@ -8,6 +8,8 @@
 
 ### Setup the dynamic environment
 
+### Do Not Close the Powershell. Dropdown the powershell window and continue the lab
+
 [!Note] Internet Explorer may automatically open in the desktop. If you have not already completed steps #1-6, please finish them before navigating back to Internet Explorer.
 
 1. Select the **AdminUserProvisioning** file on the desktop.
