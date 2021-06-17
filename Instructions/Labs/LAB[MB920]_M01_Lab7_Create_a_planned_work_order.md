@@ -43,3 +43,5 @@ The transaction types represent the lines that are created in the service agreem
 This is used to create any service orders that are missing from a continuous series of service orders.
 
 1. Select **OK**.
+
+1. Close the page and return to the Home page.
