@@ -54,11 +54,11 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1. Products can be in variants that are differentiated by dimensions, such as color, size, or style. Products can also be set up to use storage dimensions, such as site and warehouse. There are also optional tracking dimensions, such as batch and serial numbers. To improve the efficiency of order entry, you can add the dimension fields that you commonly use directly to the order grid.
 
-1. In the Dimensions display pane, under **PRODUCT DIMENSIONS**, select the **Color** check box.
+1. In the Dimensions display pane, under **PRODUCT DIMENSIONS**, select the **Color** check box. 
 
 1. Optional: If you select the Save setup toggle switch, the dimensions you have chosen will also be shown on the order line grid the next time you open the purchase order page.
 
-1. Select **OK**.
+1. Select **OK**. Click on save on the top left corner.
 
 1. Select the **Item number** cell menu, and then select **T0004**.
 
