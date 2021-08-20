@@ -1,13 +1,4 @@
----
-lab:
-    title: 'Lab 1: Create a financial dimension'
-    module: 'Module 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance'
----
-
 ## Lab 1 - Create a financial dimension
-
-## Objectives
-
 Use the Financial dimensions page to create financial dimensions that you can use as account segments for charts of accounts. There are two types of financial dimensions: custom dimensions and entity-backed dimensions. Custom dimensions are shared across legal entities, and the values are entered and maintained by users. For entity-backed dimensions, the values are defined somewhere else in the system, such as in Customers or Stores entities. Some entity-backed dimensions are shared across legal entities, whereas other entity-backed dimensions are company-specific.
 
 You must create a custom financial dimension that will be used by your company.
