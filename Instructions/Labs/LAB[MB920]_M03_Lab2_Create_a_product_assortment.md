@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 2: Create a product assortment'
-    module: 'Module 3: Learn the Fundamentals of Microsoft Dynamics 365 Commerce'
----
-
 ## Lab 2 - Create a product assortment
 
 ## Objectives
@@ -18,7 +12,7 @@ You need to create an assortment of related products that are assigned to a spec
 
 1. On the Finance and Operations page, in the top left, select the **Expand the navigation pane** hamburger menu.
 
-1. In the navigation pane, select **Retail and Commerce** > **Catalogs and assortments** > **Assortments**.
+1. In the navigation pane, select **Module** > **Retail and Commerce** > **Catalogs and assortments** > **Assortments**.
 
 1. Wait for the page to load.
 
