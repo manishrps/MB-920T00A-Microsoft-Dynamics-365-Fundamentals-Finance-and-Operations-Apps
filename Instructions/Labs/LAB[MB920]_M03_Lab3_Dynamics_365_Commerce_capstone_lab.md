@@ -47,7 +47,7 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
 
     | Setting| Value|
     | :--- | :--- |
-    | Statement amount calculation| Last|
+    | Start amount calculation| Last|
     | Maximum Difference > Posting| 100.00|
 
 1. Select the **Financial dimensions** FastTab and then enter the following updates:
