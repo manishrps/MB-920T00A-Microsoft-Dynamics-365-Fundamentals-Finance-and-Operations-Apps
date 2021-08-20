@@ -45,7 +45,7 @@ You need to create an assortment of related products that are assigned to a spec
 
 1. On the Products menu, select **+ Add line**.
 
-1. Select the **Category** menu, select **Team Sports (Team Sports),** and then select **OK**.
+1. Select the **Category** menu, select any name for Ex.**Team Sports (Team Sports),** and then select **OK**.
 
 1. This will add all child items of the parent category.
 
