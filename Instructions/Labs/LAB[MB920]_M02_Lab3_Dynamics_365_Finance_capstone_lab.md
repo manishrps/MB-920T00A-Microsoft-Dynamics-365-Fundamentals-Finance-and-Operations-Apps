@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 3: Dynamics 365 Finance capstone lab'
-    module: 'Module 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance'
----
-
 ## Lab 3 - Dynamics 365 Finance capstone lab
 
 ## Objective
@@ -350,7 +344,7 @@ During this lab, you will explore the core capabilities of Microsoft Dynamics 36
     | :--- | :--- |
     | Aging as of| Today's date|
     | Aging period definition| 30_60_90_180|
-    | Details| Yrs|
+    | Details| Yes|
 
 1. In the Customer aging report, select the **Next Page** down arrow icon and then scroll to the last page.
     Review the invoice that was created for the US-901 customer.
