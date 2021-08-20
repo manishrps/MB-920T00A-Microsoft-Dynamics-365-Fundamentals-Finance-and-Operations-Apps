@@ -137,7 +137,7 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
 
 1. On the AW-Outlet page, select **+Add line**.
 
-1. Select the **Category** menu, select any catagory for Ex.**Team Sports**, and then select **OK**.
+1. Select the **Category** menu, select **Team Sports**, and then select **OK**.
 
 1. In the Action Pane, select **Publish**.  
 
